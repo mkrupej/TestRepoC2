@@ -5,3 +5,4 @@ chiles
 salt
 pepper
 onion
+tomato
