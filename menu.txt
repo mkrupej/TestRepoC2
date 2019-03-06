@@ -1,4 +1,6 @@
 menu
+5 spinach
+4 guacamole
 3 spaghetti
 2 apple cake
 1 cheesecake
